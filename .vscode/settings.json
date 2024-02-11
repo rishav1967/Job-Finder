@@ -1,0 +1,7 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascript",
+        "\"emmet.includeLanguages\": {   \"javascript\": \"javascriptreact\" }": "\"emmet.includeLanguages\": {   \"javascript\": \"javascriptreact\" }"
+    },
+    "editor.acceptSuggestionOnEnter": "on"
+}
